@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('./assets/background_SobriétéNumerique_10%.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.question-container {
+    margin: 0 25%;
+}
+
+.question {
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 2.9%;
+}
+
+.question-title {
+    color: #333;
+}
